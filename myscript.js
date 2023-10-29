@@ -4,7 +4,7 @@ const length = 12;
 let upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let lowerCase = "abcdefghijklmnopqrstuvwxyz";
 let numbers = "0123456789";
-let symbols = "~!@#$%^&*()_+{}?<>/|-";
+let symbols = "#$&|";
 
 const allChar = upperCase + lowerCase + numbers + symbols;
 
