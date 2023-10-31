@@ -44,12 +44,12 @@ body{
 .content input{
     border: none;
     outline: none;
-    font-size: 22px;
+    font-size: 18px;
     color: #000;
     font-weight: 500;
 }
 .content img{
-    width: 50px;
+    width: 30px;
 }
 .container button{
     background: #ff004f;
