@@ -5,7 +5,7 @@
     font-family: serif;
 }
 body{
-    background: #1f2b37;
+    background: #181818;
     color: #fff;
     position: relative;
     padding: 3px;
@@ -14,7 +14,7 @@ body{
     position: absolute;
     top: 1%;
     left: 1%;
-    width: 100px;
+    width: 35px;
 }
 .container{
     margin: 15%;
@@ -26,9 +26,9 @@ body{
     font-weight: 500;
 }
 .container h1 span{
-    color: #4f76f6;
+    color: #6660ff;
     padding-bottom: 5px;
-    border-bottom: 2px solid #4f76f6;
+    border-bottom: 2px solid #6660ff;
 }
 .content{
     width: 100%;
@@ -52,7 +52,7 @@ body{
     width: 30px;
 }
 .container button{
-    background: #4f76f6;
+    background: #6660ff;
     border: none;
     outline: none;
     padding: 15px 30px;
